@@ -1,0 +1,28 @@
+.app {
+  &-container {
+    height: 100%;
+  }
+
+  &-alert {
+    position: fixed!important;
+    top: 10rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+  }
+
+  .full-height {
+    height: 100%;
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
+  .fade-enter-active, .fade-leave-active {
+    transition: opacity .5s;
+  }
+  .fade-enter, .fade-leave-to {
+    opacity: 0;
+  }
+}
