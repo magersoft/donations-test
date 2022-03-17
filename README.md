@@ -10,8 +10,8 @@
 ## Используемые технологии
 - Серверное приложение разработано на [Nest.js](https://nestjs.com/)
 - База данных [mongoDB](https://www.mongodb.com/)
-- Клиентское приложение разработано на [Vue.js](https://vuejs.org/)
-- Для получения актуального курса валют использован сервис [Open Exchange Rates](=https://openexchangerates.org/api)
+- Клиентское приложение разработано на [Vue.js](https://vuejs.org/) с компонентами [Vuetify](https://vuetifyjs.com)
+- Для получения актуального курса валют использован сервис [Open Exchange Rates](https://openexchangerates.org/api)
 
 ## Системные требования
 - Node.js v12 и выше
